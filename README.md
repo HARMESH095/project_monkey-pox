@@ -34,12 +34,4 @@ To use this repository and detect monkeypox from video images, follow these step
 
 4. Once the model is trained and saved, you can use it to classify new video images for monkeypox detection.
 
-Feel free to explore the code and modify it according to your requirements. You can experiment with different model architectures, hyperparameters, or techniques to improve the classification accuracy.
 
-## Contributing
-
-Contributions to this repository are highly welcome. If you have any ideas, suggestions, or improvements, please feel free to fork the repository and submit a pull request. Let's collaborate to enhance the monkeypox detection model!
-
-## License
-
-This project is licensed under the [MIT License](LICENSE). You are free to use and modify the code for your own purposes.
